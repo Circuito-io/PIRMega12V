@@ -7,13 +7,12 @@ Project Content
 
 Bill Of Materials
 ===
-Qty|Desc
--|-
-1|[10K Ohm Resistor](https://www.sparkfun.com/products/8374)
-1|[PIR Motion Sensor JST](https://www.sparkfun.com/products/13285)
-1|[Arduino Mega 2560 R3](https://www.sparkfun.com/products/11061)
-
-
+Description|Quantity
+-----------|--------
+[10K Ohm Resistor](https://www.sparkfun.com/products/8374)|1
+[PIR Motion Sensor JST](https://www.sparkfun.com/products/13285)|1
+[Arduino Mega 2560 R3](https://www.sparkfun.com/products/11061)|1
+[Wall Adapter Power Supply - 12VDC 600mA](https://www.sparkfun.com/products/9442)|1
 
 circuito.io
 ===========
@@ -31,7 +30,7 @@ You can also like circuito.io on Facebook at: https://www.facebook.com/circuito.
 
 How to read this repository
 ---------------------------
-You are here because you ised circuito.io and asked for a circuit and code sample for your project.
+You are here because you used circuito.io and asked for a circuit and code sample for your project.
 This is your project folder, you'll find here:
 * bom.txt - all the parts used in designing the circuit - your chosen parts & any additionals that may be required for the circuit to work.
 * firmware folder - includes all code need to operate the i/o devices using the micro-controller. firmware.ino is the main logic file.
