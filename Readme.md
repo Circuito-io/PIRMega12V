@@ -1,10 +1,3 @@
-Project Content
-===============
-*	ArduinoMega
-*	ArduinoMegaExt
-*	PIR
-*	BarrelJack12v
-
 Bill Of Materials
 ===
 Description|Quantity
